@@ -1,4 +1,4 @@
-<img src="https://d12swbtw719y4s.cloudfront.net/images/AOgHXGka/jTGR1bSPVIFNnIDTfZbm/LPhe0bfiSP.jpeg?w=620" width="100vw" />
+<img src="https://d12swbtw719y4s.cloudfront.net/images/AOgHXGka/jTGR1bSPVIFNnIDTfZbm/LPhe0bfiSP.jpeg?w=620" width="100%" />
 
 # Buenos dias, Buenas tardes o Buenas noches
 
